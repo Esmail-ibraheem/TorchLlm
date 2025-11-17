@@ -5,18 +5,17 @@
  
 ## TODO
 
-- [ ] Learn Pytorch 24 hours video   
-- [ ] Learn Jax  
-- [x] Learning TensorFlow
-- [ ] Read the Mathematics for Machine Learning book
-      - [ ] Practice most maths in Jax or numpy
-- [ ] Read the Deep Learning book
-      - [ ] Practice it using Pytorch  
-- [ ] Learn Onnx
-- [ ] build models
-      - [ ] GPT
-      - [ ] LLAMA
-      - [ ] MOE
-      - [ ] DEEPSEEK
-      - [ ] ETC...
-
+- [ ] Learn PyTorch (24-hour video)  
+- [ ] Learn JAX  
+- [x] Learning TensorFlow  
+- [ ] Read *Mathematics for Machine Learning*
+  - [ ] Practice most maths in JAX or NumPy
+- [ ] Read *Deep Learning* (Goodfellow, Bengio, Courville)
+  - [ ] Practice it using PyTorch  
+- [ ] Learn ONNX  
+- [ ] Build models
+  - [ ] GPT  
+  - [ ] LLaMA  
+  - [ ] MoE  
+  - [ ] DeepSeek-style model  
+  - [ ] Etc...
