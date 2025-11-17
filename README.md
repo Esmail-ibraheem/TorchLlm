@@ -5,9 +5,9 @@
  
 ## TODO
 
-- [ ] Learn PyTorch (24-hour video)  
+- [x] Learn PyTorch (24-hour video)  
 - [ ] Learn JAX  
-- [x] Learning TensorFlow  
+- [ ] Learning TensorFlow  
 - [ ] Read *Mathematics for Machine Learning*
   - [ ] Practice most maths in JAX or NumPy
 - [ ] Read *Deep Learning* (Goodfellow, Bengio, Courville)
@@ -18,4 +18,10 @@
   - [ ] LLaMA  
   - [ ] MoE  
   - [ ] DeepSeek-style model  
-  - [ ] Etc...
+  - [ ] Etc...     
+- [ ] Learn building RAG and AI agent Systems
+  - [ ] Langchain
+  - [ ] LlamaIndex
+  - [ ] MCP
+  - [ ] Langraph
+  
