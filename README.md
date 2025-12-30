@@ -1,4 +1,4 @@
-# TorchLlm
+# TorchML
 
 ## building new version of the pytorch which focused on the machine leanring and deep learning models (HuggingFace in one library)
 
