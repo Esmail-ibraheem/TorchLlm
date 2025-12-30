@@ -1,6 +1,11 @@
 # TorchLlm
 
 ## building new version of the pytorch which focused on the machine leanring and deep learning models (HuggingFace in one library)
+
+## modules
+- torchllm.papers (implementation papers)
+- torchllm.models.llm
+- torchllm.models.gradient_decesent
  
 ## TODO
 
